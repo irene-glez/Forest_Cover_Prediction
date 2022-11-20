@@ -1,6 +1,6 @@
 # Forest_Cover_Prediction
 
-Gracias por interesarte por este proyecto :)
+Gracias por tu interés en este proyecto :)
 
 Hemos trabajado sobre los datos del Bosque Roosevelt en Colorado.
 
@@ -12,3 +12,7 @@ Poder anticipar qué tipo de vegetación va a crecer en áreas específicas de u
 - distribución de recursos
 
 Hemos estudiado el problema, y pensamos que desde el Machine Learning podemos contribuir a la salud de los bosques.
+
+## Source:
+
+https://archive.ics.uci.edu/ml/datasets/covertype
