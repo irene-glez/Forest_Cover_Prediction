@@ -6,7 +6,7 @@ Thank you for your interest in this project 🙂
 
 We have worked on the data of the Roosevelt Forest in Colorado.
 
-Being able to anticipate what type of vegetation is going to grow in specific areas of a forest is necessary to address different problems:
+Being able to anticipate what type of vegetation is going to grow in a forest is necessary to address different problems:
 
 - fire prevention
 - pest control
