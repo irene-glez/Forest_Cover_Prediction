@@ -13,7 +13,8 @@ import math
 train = pd.read_csv('/Users/IRENE/Desktop/GITHUB/Forest_Cover_Prediction/src/data/train.csv')
 
 # 
-train = train.drop(columns = ['Id', 'Soil_Type7', 'Soil_Type15', 'Soil_Type25', 'Soil_Type8', 'Soil_Type28', 'Soil_Type36', 'Soil_Type9', 'Soil_Type27', 'Soil_Type21', 'Soil_Type34'])
+train = train.drop(columns = ['Id', 'Soil_Type7', 'Soil_Type15', 'Soil_Type25', 'Soil_Type8', 'Soil_Type28', 'Soil_Type36', 'Soil_Type9', 
+                            'Soil_Type27', 'Soil_Type21', 'Soil_Type34'])
 
 train['eDist_to_Hydrology'] = (train['Horizontal_Distance_To_Hydrology']**2 + train['Vertical_Distance_To_Hydrology']**2)**0.5 
 train['human_presence'] = train['Horizontal_Distance_To_Roadways'] + train['Horizontal_Distance_To_Fire_Points']
