@@ -18,3 +18,21 @@ We have studied the problem, and we think that from Machine Learning we can cont
 ## Source:
 
 https://archive.ics.uci.edu/ml/datasets/covertype
+
+### I've perform the following tasks:
+
+1. EDA
+
+2. Feature Engineering
+
+3. Model selection and fitting
+
+4. 
+
+5. 
+
+# Do you want to discover more? 
+
+ - EDA: https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/1.EDA.ipynb
+ - Feature Engineering: 
+ - Model selection and fitting: https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/3.model_selection.ipynb
