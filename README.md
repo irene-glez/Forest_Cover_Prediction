@@ -27,12 +27,14 @@ https://archive.ics.uci.edu/ml/datasets/covertype
 
 3. Model selection and fitting
 
-4. 
+4. Model interpretation
 
-5. 
+5. Script to train and save the model
 
 # Do you want to discover more? 
 
  - EDA: https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/1.EDA.ipynb
- - Feature Engineering: 
+ - Feature Engineering: https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/2.feature_engineering.ipynb
  - Model selection and fitting: https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/3.model_selection.ipynb
+ - Model interpretation: https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/4.model_interpretation.ipynb
+ - Script to train and save the model: https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/main.py
