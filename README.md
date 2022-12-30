@@ -1,5 +1,7 @@
 # Forest_Cover_Prediction
 
+Applying Machine Learning in forest management.
+
 ![img](src/img/A_Forest_title.jpg)
 
 Thank you for your interest in this project 🙂
@@ -22,19 +24,17 @@ https://archive.ics.uci.edu/ml/datasets/covertype
 ### I've perform the following tasks:
 
 1. EDA
+https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/1.EDA.ipynb
 
 2. Feature Engineering
+https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/2.feature_engineering.ipynb
 
 3. Model selection and fitting
+https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/3.model_selection.ipynb
 
 4. Model interpretation
+https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/4.model_interpretation.ipynb
 
 5. Script to train and save the model
+https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/main.py
 
-# Do you want to discover more? 
-
- - EDA: https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/1.EDA.ipynb
- - Feature Engineering: https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/2.feature_engineering.ipynb
- - Model selection and fitting: https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/3.model_selection.ipynb
- - Model interpretation: https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/src/notebooks/4.model_interpretation.ipynb
- - Script to train and save the model: https://github.com/irene-glez/Forest_Cover_Prediction/blob/main/main.py
