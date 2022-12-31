@@ -1,6 +1,5 @@
 # Forest_Cover_Prediction
 
-Applying Machine Learning in forest management.
 
 ![img](src/img/A_Forest_title.jpg)
 
