@@ -5,7 +5,7 @@
 
 Thank you for your interest in this project 🙂
 
-We have worked on the data of the Roosevelt Forest in Colorado.
+We have worked on the data of the Roosevelt Forest, Colorado.
 
 Being able to anticipate what type of vegetation is going to grow in a forest is necessary to address different problems:
 
