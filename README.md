@@ -13,7 +13,7 @@ Being able to anticipate what type of vegetation is going to grow in a forest is
 - pest control
 - forest management
 - distribution of resources
-
+ 
 We have studied the problem, and we think that from Machine Learning we can contribute to the health of forests.
 
 ## Source:
