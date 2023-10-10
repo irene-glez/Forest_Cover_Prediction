@@ -16,7 +16,7 @@ Being able to anticipate what type of vegetation is going to grow in a forest is
  
 We have studied the problem, and we think that from Machine Learning we can contribute to the health of forests.
 
-## Source:
+## Source: 
 
 https://archive.ics.uci.edu/ml/datasets/covertype
 
